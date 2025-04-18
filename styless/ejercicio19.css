@@ -1,0 +1,30 @@
+form input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+form button {
+    background-color: #4c4c4c; 
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+form {
+    width: 100%;
+    max-width: 500px;
+    justify-content: baseline;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(205, 204, 203);
+    border-radius: 0px;
+    box-shadow: 0px 20px 10px rgba(0,0,0,0.1)
+}
